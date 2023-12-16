@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"my.uum"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"my.uum"},{"l":"my.uum.RoundRobinAlgorithm"},{"l":"my.uum.SQLite"}];updateSearchResults();
